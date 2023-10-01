@@ -1,5 +1,5 @@
 # Stock Market Data Architecture
-![sm-dp](https://github.com/riti215/Stock_Market_Data_Pipeline_and_Analysis/assets/57587827/ca7c32b1-a279-4c11-b3e6-89ef71266415)
+![sm-dp](https://github.com/riti215/Stock_Market_Data_Pipeline_and_Analysis/assets/57587827/e4ed4ad6-8068-4b60-8cb1-24299812e037)
 
 # Technology used
 1. Programming Language - Python, SQL
